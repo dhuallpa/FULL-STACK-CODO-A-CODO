@@ -1,0 +1,21 @@
+.body {
+    display: flex;
+}
+.texto1 {
+    color: #fff !important;
+    font-size: 12px !important;
+}
+
+.carousel-caption {
+    top: auto;
+    bottom: 10%;
+    right: 12%;
+    left: 46%;
+}
+.imagen{
+    background-image: url('../img/honolulu.jpg');
+    background-image: center;
+    background-size: cover;
+    width: 50%;
+    height: 70vh;
+    }
